@@ -1,7 +1,8 @@
-## Welcome to Ian's Page
-You can use the [editor on GitHub](https://github.com/ithave313/ithavenaar.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Welcome to Ian Havenaar's Page
+I am a Junior majoring in Computer Science at the University of Notre Dame. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In addition to my coursework, I do research for the Center for Research Computing at Notre Dame. I am currently working on using Machine Learning to identify and classify triggers of mass killings. 
+
 
 ### Markdown
 
