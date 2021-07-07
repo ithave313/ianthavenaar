@@ -1,7 +1,23 @@
-# Welcome to Ian Havenaar's Page
+# Ian T. Havenaar, Software Engineer and Research Assistant
 I am a Junior majoring in Computer Science at the University of Notre Dame. 
 
 In addition to my coursework, I do research for the Center for Research Computing at Notre Dame. I am currently working on using Machine Learning to identify and classify triggers of mass killings. 
+
+### I am proficient in the following programming languages:
+- Python
+- C, C++
+- HTML, CSS, Bootstrap
+
+### My Computer Science coursework has consisted of:
+1. Fundamentals of Computing
+2. Discrete Mathematics
+3. Logic Design and Sequential Circuits
+4. Data Structures
+5. Systems Programming
+
+### I am currently enrolled in these courses:
+- Operating Systems
+- Computer Architecture
 
 
 ### Markdown
