@@ -1,6 +1,6 @@
 # Ian T. Havenaar, Software Engineer and Research Assistant
 - I am a Junior majoring in Computer Science at the University of Notre Dame. 
-- In addition to my coursework, I do research for the Center for Research Computing at Notre Dame. I am currently working on using **Machine Learning** to identify and classify _triggers of mass killings_. 
+- In addition to my coursework, I do research for the Center for Research Computing at Notre Dame. I am currently working on using **Machine Learning** to identify and classify _Triggers of Mass Killings_. 
 
 ## My Computer Science coursework has consisted of:
 - `Fundamentals of Computing`
